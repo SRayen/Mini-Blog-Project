@@ -7,6 +7,14 @@ The Mini-Blog-Project is a web application that allows users to explore and enga
 Users can read the posts, interact with the content. Additionally, users have the ability to edit or delete existing post or create new posts.
 The application also provides a feature to access author profiles and view their posts.
 
+## concepts Are Used :
+  * React
+  * Redux Toolkit
+  * React advanced hooks
+  * React Routing
+  * Axios 
+  * Date-fns
+
 ## Installation :
 ### To run the Mini-Blog-Project locally, follow these steps:
 
