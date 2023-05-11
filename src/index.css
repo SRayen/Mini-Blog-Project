@@ -45,6 +45,24 @@ header li {
   top: 0;
 }
 
+/* Media query for smartphones */
+@media only screen and (max-width: 600px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  header h1 {
+    font-size: x-large;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  header li {
+    font-size: large;
+  }
+}
+
 footer {
   padding: 1rem;
   text-align: center;
