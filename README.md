@@ -11,7 +11,7 @@ The application also provides a feature to access author profiles and view their
   * React
   * Redux Toolkit
   * React advanced hooks
-  * React Routing
+  * React Router 6
   * Axios 
   * Date-fns
 
