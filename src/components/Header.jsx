@@ -1,9 +1,8 @@
 import React from "react";
-import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import { getCount, increaseCount } from "../features/posts/postsSlice";
+
 const Header = () => {
-  const dispatch = useDispatch();
+
   
   return (
     <header className="Header">
