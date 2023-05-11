@@ -1,6 +1,6 @@
 # Mini-Blog-Project
 
-## Live preview : https://famous-pithivier-ac7cd0.netlify.app/
+## Live preview : https://mini-blog-project.netlify.app/
 
 ## Description :
 The Mini-Blog-Project is a web application that allows users to explore and engage with a collection of posts.
