@@ -34,6 +34,17 @@ header {
   top: 0;
 }
 
+header li {
+  padding: 1rem;
+  font-size: xx-large;
+  font-weight: 900;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  position: sticky;
+  top: 0;
+}
+
 footer {
   padding: 1rem;
   text-align: center;
